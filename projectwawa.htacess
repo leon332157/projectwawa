@@ -1,0 +1,4 @@
+<VirtualHost>
+AllowOverride All             
+Require all granted 
+</VirtualHost>
